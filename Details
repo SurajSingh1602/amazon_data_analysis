@@ -1,2 +1,8 @@
 The excel file contains more than 180K rows
 here is the step to create this visual
+Steps:
+      Download the excel file
+      Check if the data is clean or not and if it is then contiue else clean the data using excel or python
+      Delete the unnecessary columns 
+      Open power BI and add background for better and attractive view
+      build the visualization in power BI using the data.
